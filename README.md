@@ -1,2 +1,8 @@
-# Public-Sentiment
-I explored how sentiment analysis can reveal public opinion and attitudes towards topics and brands using social media data. 📊✨ Key insights: ✅ Classified emotions as positive, negative, or neutral. ✅ Identified trends and their impact on brand perception. ✅ Visualized sentiment shifts over time to highlight key events.
+I analyzed traffic accident data to uncover patterns related to road conditions, weather, and time of day. 🌦️🕒
+
+Key takeaways:
+✅ Identified accident hotspots.
+✅ Explored contributing factors like weather and road conditions.
+✅ Delivered actionable insights for improving road safety.
+
+This work highlights the power of data in making our roads safer and urban planning smarter.
